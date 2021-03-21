@@ -1,3 +1,26 @@
+## README
+
+- [English](README.md)
+- [Русский](README-ru.md)
+
+## Environment variables (.env)
+
+An example of the template is located in the `.env.example` file.
+
+Copy `.env.example` to `.env`.
+
+```bash
+cp .env.example .env
+```
+
+In the `.env` file, enter your own values for the variables.
+
+---
+
+## CRA instructions
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
